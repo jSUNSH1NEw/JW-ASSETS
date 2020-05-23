@@ -1,0 +1,183 @@
+/*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
+// Blocks
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+ol{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin: 0;
+    padding: 0;
+}
+dl{
+    margin: 0;
+    padding: 0;
+}
+dt{
+    margin: 0;
+    padding: 0;
+}
+dd{
+    margin: 0;
+    padding: 0;
+}
+blockquote{
+    margin: 0;
+    padding: 0;
+}
+figure{
+    margin: 0;
+    padding: 0;
+}
+fieldset{
+    margin: 0;
+    padding: 0;
+}
+legend{
+    margin: 0;
+    padding: 0;
+}
+textarea{
+    margin: 0;
+    padding: 0;
+}
+pre{    
+    margin: 0;
+    padding: 0;
+}
+iframe{
+    margin: 0;
+    padding: 0;
+}
+hr{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    margin: 0;
+    padding: 0;
+}
+h4{
+    margin: 0;
+    padding: 0;
+}
+h5{
+    margin: 0;
+    padding: 0;
+}
+h6{
+    margin: 0;
+    padding: 0;
+}
+
+// Headings
+h1{
+    font-size: 100%;
+    font-weight: normal;
+}
+h2{
+    font-size: 100%;
+    font-weight: normal;
+}
+h3{
+    font-size: 100%;
+    font-weight: normal;
+}
+h4{
+    font-size: 100%;
+    font-weight: normal;
+}
+h5{
+    font-size: 100%;
+    font-weight: normal;
+}
+h6{
+    font-size: 100%;
+    font-weight: normal;
+}
+
+
+// List
+ul{
+    list-style: none
+}
+// Form
+button{
+    margin: 0;
+}
+input{
+    margin: 0;
+}
+select{
+    margin: 0;
+}
+textarea{
+    margin: 0;
+}
+
+// Box sizing
+html{
+    box-sizing: border-box;
+}
+*{
+    &{
+        &::before{
+            &::after{
+                box-sizing: inherit;
+            }
+        }
+    }
+}
+
+// Media
+img{
+    height: auto;
+    max-width: 100%;
+}
+video{
+    height: auto;
+    max-width: 100%;
+}
+
+
+// Iframe
+iframe{
+    border: 0;
+}
+
+// Table
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+td{
+    th{
+        padding: 0;
+            &:not([align]){
+                text-align:center;
+            }
+    }
+}

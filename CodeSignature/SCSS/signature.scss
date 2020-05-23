@@ -1,0 +1,87 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+  }
+  
+  body {
+    overflow-x: hidden;
+    background-color: black;
+  }
+
+body {
+  padding-top: 3rem;
+}
+
+.hero {
+  padding: 20vh 0;
+  background: linear-gradient(to right, $secondary, $accent);
+}
+
+.features {
+  @include section-padding;
+  background: $dark;
+  color: white;
+}
+
+.pricing {
+  @include section-padding;
+  text-align: center;
+}
+
+.featured-price {
+  transform: scale(1.1);
+  z-index: 10;
+  background: $dark;
+}
+
+footer {
+  padding: 10vh 0;
+  text-align: center;
+  background: black;
+  color: white;
+}
+
+
+
+footer {
+    background-color: #222222;
+    ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        align-items: center;
+        height: 50px;
+        margin: auto;
+        li {
+            list-style-type: none;
+            &:nth-child(5) {
+                border: none;
+            }
+            &:nth-child(6) {
+                border: none;
+                position: absolute;
+                right: 10px;
+                z-index: 1;
+            }
+            
+        }
+    }
+    a {
+        text-decoration: none;
+        color: white;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    height: 50px;
+    margin: auto;
+}

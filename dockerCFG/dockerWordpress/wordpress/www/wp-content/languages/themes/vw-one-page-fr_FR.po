@@ -1,0 +1,399 @@
+# Translation of Themes - VW One Page in French (France)
+# This file is distributed under the same license as the Themes - VW One Page package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-09 12:49:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - VW One Page\n"
+
+#. Theme Name of the theme
+msgid "VW One Page"
+msgstr "VW One Page"
+
+#. Description of the theme
+msgid "VW One Page is a creatively crafted, polished and eye-catching multipurpose one page WordPress theme. It is the best fit for business and corporate website, landing page, portfolio, blog, personal website, firms, enterprises, local business and many other websites for different niches of businesses. It is a responsive theme made with mobile-first approach to load perfectly on mobiles, tablets and desktops of varying sizes. It is compatible on multiple browsers and can be translated into as many as 70 different languages. This one page WordPress theme is optimized for search engines to give good traffic input to your site. With plethora of styling options of header, footer, gallery and sidebars, it promises to give your website a unique look and make it outstanding. Further, banners and sliders are provided to add beauty to it. Made from scratch, it stands firm on Bootstrap framework which makes an easy way for its usage. This one page WordPress theme gives all the power to design a website according to your specifications with its advanced customization tool. It has social media icons to make your website reach people easily. It is lightweight and compatible with third party plugins. Demo: https://www.vwthemes.net/vw-one-page-pro/"
+msgstr "VW One page est un thème WordPress multifonctions en une page créativement conçu et accrocheur. Il est le meilleur ajustement pour les sites d'affaires et d'entreprise, page de destination, portfolio, blog, site personnel, entreprises locales et de nombreux autres sites pour différentes niches d'entreprises. C'est un thème responsive conçu avec une approche mobile pour se charger parfaitement sur les mobiles, les tablettes et les ordinateurs de bureau de différentes tailles. Il est compatible sur plusieurs navigateurs et peut être traduit en 70 langues différentes. Ce thème WordPress en une page est optimisé pour les moteurs de recherche pour donner une bonne entrée de trafic sur votre site. Avec pléthore d'options de style d'en-tête, pied de page, galerie et barres, il promet de donner à votre site un look unique et le rendre exceptionnel. De plus, des bannières et des diaporamas sont fournis pour lui ajouter de la beauté. Fait à partir de zéro, il est formé sur le framework Bootstrap qui rend facile son utilisation. Ce thème WordPress en une page vous donne le pouvoir de concevoir un site en fonction de vos spécifications avec son outil de personnalisation avancée. Il a des icônes de médias sociaux pour faire en sorte que votre site atteigne les gens facilement. Il est léger et compatible avec les extensions externes. Démo : https://www.vwthemes.net/vw-one-page-pro/"
+
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:51
+#: template-parts/content.php:38 template-parts/content.php:80
+#: template-parts/content.php:121 template-parts/content-gallery.php:40
+#: template-parts/content-video.php:51 template-parts/content-image.php:38
+#: template-parts/content-image.php:80 template-parts/content-image.php:121
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:51
+#: template-parts/content.php:38 template-parts/content.php:80
+#: template-parts/content.php:121 template-parts/content-gallery.php:40
+#: template-parts/content-video.php:51 template-parts/content-image.php:38
+#: template-parts/content-image.php:80 template-parts/content-image.php:121
+msgid "0 Comment"
+msgstr "0 commentaire"
+
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:51
+#: template-parts/content.php:38 template-parts/content.php:80
+#: template-parts/content.php:121 template-parts/content-gallery.php:40
+#: template-parts/content-video.php:51 template-parts/content-image.php:38
+#: template-parts/content-image.php:80 template-parts/content-image.php:121
+msgid "0 Comments"
+msgstr "0 commentaire"
+
+#: inc/customizer.php:430
+msgid "About us"
+msgstr "À propos de nous"
+
+#: inc/customizer.php:243
+msgid "Add Phone Number"
+msgstr "Ajout de téléphone"
+
+#: inc/customizer.php:289
+msgid "Add Timming"
+msgstr "Ajout de minuterie"
+
+#: functions.php:77
+msgid "Appears on blog page sidebar"
+msgstr "Apparaît sur la barre de page de blog"
+
+#: functions.php:107
+msgid "Appears on footer 1"
+msgstr "Apparaît sur le pied 1"
+
+#: functions.php:117
+msgid "Appears on footer 2"
+msgstr "Apparaît sur le pied 2"
+
+#: functions.php:127
+msgid "Appears on footer 3"
+msgstr "Apparaît sur le pied 3"
+
+#: functions.php:137
+msgid "Appears on footer 4"
+msgstr "Apparaît sur le pied 4"
+
+#: functions.php:147
+msgid "Appears on header"
+msgstr "Apparaît sur l'en-tête"
+
+#: functions.php:87 functions.php:97
+msgid "Appears on page sidebar"
+msgstr "Apparaît sur la barre de page"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Archives"
+
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr "Retour vers l’accueil"
+
+#: functions.php:76
+msgid "Blog Sidebar"
+msgstr "Barre du blog"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: inc/customizer.php:886
+msgid "Copyright Text"
+msgstr "Texte de copyright"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Accueil personnalisé"
+
+#: no-results.php:22
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Ne vous inquiétez pas, cela arrive aux meilleurs d’entre nous."
+
+#: template-parts/image-layout.php:32 inc/customizer.php:864
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/themes-widgets/social-icon.php:69
+msgid "Facebook:"
+msgstr "Facebook :"
+
+#: inc/customizer.php:869
+msgid "Footer"
+msgstr "Pied"
+
+#: functions.php:106
+msgid "Footer Navigation 1"
+msgstr "Navigation de pied 1"
+
+#: functions.php:116
+msgid "Footer Navigation 2"
+msgstr "Navigation de pied 2"
+
+#: functions.php:126
+msgid "Footer Navigation 3"
+msgstr "Navigation de pied 3"
+
+#: functions.php:136
+msgid "Footer Navigation 4"
+msgstr "Navigation de pied 4"
+
+#: inc/customizer.php:82
+msgid "Four Columns"
+msgstr "Quatre colonnes"
+
+#: functions.php:69 page-template/custom-home-page.php:40
+msgid "GET STARTED"
+msgstr "Prêt à commencer"
+
+#: inc/customizer.php:47
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: inc/themes-widgets/social-icon.php:77
+msgid "Google+:"
+msgstr "Google + :"
+
+#: inc/customizer.php:83
+msgid "Grid Layout"
+msgstr "Mise en page en grille"
+
+#: inc/themes-widgets/social-icon.php:85
+msgid "Instagram:"
+msgstr "Instagram :"
+
+#: inc/customizer.php:78 inc/customizer.php:97
+msgid "Left Sidebar"
+msgstr "Barre de gauche"
+
+#: inc/themes-widgets/social-icon.php:81
+msgid "Linkedin:"
+msgstr "Linkedin :"
+
+#: page-template/custom-home-page.php:116
+msgid "MORE"
+msgstr "PLUS"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Méta"
+
+#: template-parts/single-post-layout.php:57
+#: page-template/custom-home-page.php:58
+msgid "Next"
+msgstr "Suivant"
+
+#: archive.php:39 archive.php:70 archive.php:100 archive.php:130
+#: archive.php:162 archive.php:196 archive.php:227 single.php:33 single.php:60
+#: single.php:86 single.php:112 single.php:140 single.php:170 single.php:197
+#: search.php:34 search.php:62 search.php:89 search.php:116 search.php:145
+#: search.php:176 search.php:204 index.php:38 index.php:65 index.php:91
+#: index.php:117 index.php:145 index.php:175 index.php:202 image.php:33
+#: image.php:60 image.php:86 image.php:112 image.php:140 image.php:170
+#: image.php:197
+msgid "Next page"
+msgstr "Page suivante"
+
+#: template-parts/single-post-layout.php:58
+msgid "Next post:"
+msgstr "Article suivant :"
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: inc/customizer.php:80 inc/customizer.php:88 inc/customizer.php:99
+msgid "One Column"
+msgstr "Une colonne"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un commentaire sur &ldquo;%s&rdquo;"
+
+#: archive.php:40 archive.php:71 archive.php:101 archive.php:131
+#: archive.php:163 archive.php:197 archive.php:228 single.php:34 single.php:61
+#: single.php:87 single.php:113 single.php:141 single.php:171 single.php:198
+#: search.php:35 search.php:63 search.php:90 search.php:117 search.php:146
+#: search.php:177 search.php:205 index.php:39 index.php:66 index.php:92
+#: index.php:118 index.php:146 index.php:176 index.php:203 image.php:34
+#: image.php:61 image.php:87 image.php:113 image.php:141 image.php:171
+#: image.php:198
+msgid "Page"
+msgstr "Page"
+
+#: functions.php:86
+msgid "Page Sidebar"
+msgstr "Barre de page"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/single-post-layout.php:52
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publié dans</span><span class=\"post-title\">%title</span>"
+
+#: inc/themes-widgets/social-icon.php:89
+msgid "Pinterest:"
+msgstr "Pinterest :"
+
+#: template-parts/single-post-layout.php:60
+#: page-template/custom-home-page.php:54
+msgid "Previous"
+msgstr "Précédent"
+
+#: archive.php:38 archive.php:69 archive.php:99 archive.php:129 archive.php:161
+#: archive.php:195 archive.php:226 single.php:32 single.php:59 single.php:85
+#: single.php:111 single.php:139 single.php:169 single.php:196 search.php:33
+#: search.php:61 search.php:88 search.php:115 search.php:144 search.php:175
+#: search.php:203 index.php:37 index.php:64 index.php:90 index.php:116
+#: index.php:144 index.php:174 index.php:201 image.php:32 image.php:59
+#: image.php:85 image.php:111 image.php:139 image.php:169 image.php:196
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: template-parts/single-post-layout.php:61
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: template-parts/content-audio.php:71 template-parts/content.php:58
+#: template-parts/content.php:100 template-parts/content.php:141
+#: template-parts/content-gallery.php:60 template-parts/content-video.php:71
+#: template-parts/grid-layout.php:30 template-parts/content-image.php:58
+#: template-parts/content-image.php:100 template-parts/content-image.php:141
+#: inc/customizer.php:662
+msgid "READ MORE"
+msgstr "Lire la suite"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Prêt à publier votre premier article ? Commencez ici."
+
+#. translators: %s: search term
+#: search.php:18 search.php:46 search.php:73 search.php:100 search.php:129
+#: search.php:158 search.php:188
+msgid "Results For: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: 404.php:17 inc/customizer.php:757
+msgid "Return to the home page"
+msgstr "Retour à l’accueil"
+
+#: inc/customizer.php:69 inc/customizer.php:79 inc/customizer.php:98
+msgid "Right Sidebar"
+msgstr "Barre de droite"
+
+#: inc/customizer.php:446
+msgid "Select About Page"
+msgstr "Sélection de page À propos"
+
+#: inc/customizer.php:424
+msgid "Select Category to display services"
+msgstr "Sélection de catégorie pour afficher les services"
+
+#: inc/customizer.php:325
+msgid "Select Slide Image Page"
+msgstr "Sélection d’image de page de diapositive"
+
+#: inc/getstart/getstart.php:107 inc/customizer.php:394
+msgid "Services"
+msgstr "Services"
+
+#: functions.php:96
+msgid "Sidebar 3"
+msgstr "Barre 3"
+
+#: inc/getstart/getstart.php:99 inc/getstart/getstart.php:195
+#: inc/customizer.php:296
+msgid "Slider Settings"
+msgstr "Réglages de diaporama"
+
+#: inc/customizer.php:326
+msgid "Slider image size (1500 x 590)"
+msgstr "Taille d'image de diaporama (1500 x 590)"
+
+#: functions.php:146
+msgid "Social Widget"
+msgstr "Widget social"
+
+#: no-results.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères. Veuillez essayer avec d'autres mots."
+
+#: inc/customizer.php:870
+msgid "This section will appear in the footer"
+msgstr "Cette section apparaîtra dans le pied"
+
+#: inc/customizer.php:81
+msgid "Three Columns"
+msgstr "Trois colonnes"
+
+#: inc/customizer.php:153
+msgid "Topbar Settings"
+msgstr "Réglages de barre haute"
+
+#: inc/themes-widgets/social-icon.php:93
+msgid "Tumblr:"
+msgstr "Tumblr :"
+
+#: inc/themes-widgets/social-icon.php:73
+msgid "Twitter:"
+msgstr "Twitter :"
+
+#: inc/themes-widgets/social-icon.php:13
+msgid "Widget for Social icons section"
+msgstr "Widget pour la section des icônes sociales"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Vous devez être connecté pour commander."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Votre commande"
+
+#: inc/themes-widgets/social-icon.php:97
+msgid "Youtube:"
+msgstr "YouTube :"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commentaire pour &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Recherche"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Rechercher"
+
+#. Author of the theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Author URI of the theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Theme URI of the theme
+#: functions.php:355
+msgid "https://www.vwthemes.com/themes/free-one-page-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/free-one-page-wordpress-theme/"
